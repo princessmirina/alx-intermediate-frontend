@@ -1,0 +1,5 @@
+0x02-tailwind-css/*
+!0x02-tailwind-css/src/
+0x02-tailwind-css/src/*
+!0x02-tailwind-css/src/input.css
+!0x02-tailwind-css/src/output.css
