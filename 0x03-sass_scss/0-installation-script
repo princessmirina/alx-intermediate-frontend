@@ -1,0 +1,5 @@
+Steps to install SASS:
+
+1. Verified Node.js is installed on the system.
+2. Ran 'npm install sass@3.7.4' to install SASS locally.
+3. Verified installation by running 'npx sass --version', which outputs 11.5.1
